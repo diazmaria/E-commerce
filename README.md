@@ -1,18 +1,16 @@
-# E-commerce Online Shop
+## E-commerce Online Shop
 
 ### Description
-<div style="text-align:justify">
-   Through this web-based system, users can consult a catalogue of books and CDs, search for products based on a certain type or title and add them to their shopping carts.
-   Also they can register, edit their personal details, order the products in their shopping carts and access all the orders they have made to date.
-   The administrator can add new products to the catalogue, edit them and delete them. Handling payment was not required in this prototype.
-   All the requisites were specified on an assignment for the “Programación Web” (Web Programming) module that I took at university in my second year of studies (2012-2013). 
-   Two of my classmates participated with me during this project.
-</div>
+Through this web-based system, users can consult a catalogue of books and CDs, search for products based on a certain type or title and add them to their shopping carts.
+Also they can register, edit their personal details, order the products in their shopping carts and access all the orders they have made to date.
+The administrator can add new products to the catalogue, edit them and delete them. Handling payment was not required in this prototype.
+All the requisites were specified on an assignment for the “Programación Web” (Web Programming) module that I took at university in my second year of studies (2012-2013). 
+Two of my classmates participated with me during this project.
 
 
 ### Technology
 - **PHP**
-- **CodeIgniter Web Framework**, that utilizes the MVC architecture and the Active Record Database Pattern
+- **CodeIgniter** Web Framework, that utilizes the MVC architecture and the Active Record Database Pattern
 - HTML, CSS, Bootstrap, SQL, MySQL and Apache HTTP Server
 
 
@@ -29,8 +27,8 @@ Below there is an explanation of how to run the web app locally using WAMP or XA
 4. Modify your database connection values (username, password and database name) in the file CodeIgniter/application/config/**database.php**.
 5. Run XAMPP or WAMP and go to: http://localhost/CodeIgniter
 
-### Demo
 
+### Demo
 <center>
-   ![demo](http://s1030.photobucket.com/user/MariaPhotoB/media/shop_zpswkytkike.gif)
+![demo](http://i1030.photobucket.com/albums/y369/MariaPhotoB/shop_zpswkytkike.gif)
 </center>
