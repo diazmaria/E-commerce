@@ -29,6 +29,5 @@ Below there is an explanation of how to run the web app locally using WAMP or XA
 
 
 ### Demo
-<center>
-![demo](http://i1030.photobucket.com/albums/y369/MariaPhotoB/shop_zpswkytkike.gif)
-</center>
+
+![demo](https://preview.ibb.co/e3fM1v/shop.gif)
